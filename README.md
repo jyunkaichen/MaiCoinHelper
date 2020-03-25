@@ -8,4 +8,4 @@ This program can notify users of the rise and fall of virtual currency on MaiCoi
 >>Use the following command to compile:
 **python MaiCoinHelper.py**
 
->>Receiving e-mail when the virtual currency rising or falling 5% in 24hrs!!!
+>>Receiving e-mail when the virtual currency on MaiCoin rising or falling 5% in 24hrs.
