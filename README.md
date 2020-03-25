@@ -1,4 +1,4 @@
-MaiCoinHelper
+MaiCoin Helper
 ===
 
 This program can notify users of the rise and fall of virtual currency on MaiCoin.
